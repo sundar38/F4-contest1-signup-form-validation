@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/F4-contest1-signup-form-validation/static/css/main.d5a36c0d.css",
+    "main.js": "/F4-contest1-signup-form-validation/static/js/main.3a569ae1.js",
+    "static/js/787.5c71c9aa.chunk.js": "/F4-contest1-signup-form-validation/static/js/787.5c71c9aa.chunk.js",
+    "static/media/logo.svg": "/F4-contest1-signup-form-validation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/F4-contest1-signup-form-validation/index.html",
+    "main.d5a36c0d.css.map": "/F4-contest1-signup-form-validation/static/css/main.d5a36c0d.css.map",
+    "main.3a569ae1.js.map": "/F4-contest1-signup-form-validation/static/js/main.3a569ae1.js.map",
+    "787.5c71c9aa.chunk.js.map": "/F4-contest1-signup-form-validation/static/js/787.5c71c9aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a36c0d.css",
+    "static/js/main.3a569ae1.js"
+  ]
+}
